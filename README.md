@@ -8,7 +8,7 @@
 
 # Bio
 
- I have done bachelor's of arts in Mathematics. I was very interested in Computer since my school time and wanted to learn it and make it my career. So I decided to do Diploma in Computer Application during my graduation. Now I am working as DevOps Engineer. IT is in great demand in the market and I want to make my career in this field.
+ I have done bachelor's in Mathematics. I was very interested in Computer since my school time and wanted to learn it and make it my career. So I decided to do Diploma in Computer Application during my graduation. Now I am working as DevOps Engineer. IT is in great demand in the market and I want to make my career in this field.
 
 
 ## Skills
