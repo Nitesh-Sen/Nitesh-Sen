@@ -12,7 +12,7 @@
 
 
 ## Skills
-<img  align="right"  alt="coding" width="280" src="https://resource.nife.io/wp-content/uploads/2022/08/partner.gif">
+<img  align="right"  alt="coding" width="280" src="https://github.com/Nitesh-Sen/Nitesh-Sen/blob/main/DevOps.gif">
 
 |**Amazon Web Services** &nbsp; <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="25"/> </a>    |  **Linux** &nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  |  **Docker**  &nbsp;  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img align="right" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="50" height="35"/> </a>  |
 | --- | :-- | :-- |
